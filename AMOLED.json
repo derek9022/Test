@@ -29,22 +29,6 @@
       "#6B6B6B",
       "#FFFFFF"
     ],
-    "INTERACTIVE_NORMAL": [
-      "#C8C8C8",
-      "#FFFFFF"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#DCDDDE",
-      "#FFFFFF"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#FFFFFF",
-      "#FFFFFF"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#747474",
-      "#FFFFFF"
-    ],
     "BACKGROUND_PRIMARY": [
       "#000000",
       "#FFFFFF"
